@@ -3,13 +3,10 @@ body {
     background-color: rgb(247, 219, 185);
 }
 
-img {
-    align-items: center
-    
-}
 main {
     max-width: 1200px;
     margin: auto; font-size: xx-large;
+    gap: 2;
 }
 footer {
     max-width: 1200px;
